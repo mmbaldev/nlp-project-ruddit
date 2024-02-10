@@ -79,3 +79,6 @@ if __name__ == '__main__':
     reps = Representation(dataset.train)
     print(reps.embeddings(EMBEDDING_TYPE.W2V_GOOGLE_300).shape)
     
+
+
+    
